@@ -1,2 +1,2 @@
 # nirs-blood-glucometer
-ntnyjyj
+about
