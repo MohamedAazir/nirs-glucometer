@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=830058383B New Footprint=XT9S20ANA8M
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "830058383B"; UniqueID = "\PSZJQKKZ" ("\PSZJQKKZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "XT9S20ANA8M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/xt9s20ana8m/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/35014/xt49s.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT9S20ANA8M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "73-XT49S800-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/XT9S20ANA8M?qs=oFi4%2FQsgZXYxL7wCZW5FzA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC11_2 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1mF Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C13 10mF Cap
