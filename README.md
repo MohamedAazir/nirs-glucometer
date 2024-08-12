@@ -1,2 +1,2 @@
-# nirs-blood-glucometer
+# nirs-non-invasive-glucometer
 about
