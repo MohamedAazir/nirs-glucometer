@@ -110,6 +110,11 @@ void loop() {
 
   // Check if the button is pressed
   if (buttonState == HIGH) {
+      // Display startup image
+    display.drawBitmap(0, 0, image_data_Image_3, 128, 64, 1);
+    display.display();
+    delay(2000);
+    display.clearDisplay();
     // Display the welcome message
     display.clearDisplay();
     display.setTextSize(2);
