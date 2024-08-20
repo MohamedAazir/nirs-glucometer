@@ -134,6 +134,24 @@ void loop() {
     display.setCursor(0, 40);
     display.println("Wait for 30 seconds");
     display.display(); 
+    for (int countdown = 30; countdown >0; countdown--) {
+    // Clear the display buffer
+    display.clearDisplay();
+
+    // Set the cursor position
+    display.setCursor(0,0);
+
+    // Display the countdown value
+    display.print("Wait: ");
+    display.print(countdown);
+    display.print(" s"); 
+
+    // Update the display
+    display.display();
+
+    // Wait for 1 second
+    delay(1000);
+  }
 
     // Power up the IR LED and receiver
     digitalWrite(IR_LED_pin, HIGH);
