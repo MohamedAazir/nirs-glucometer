@@ -45,8 +45,7 @@ The enclosure was designed using SolidWorks and printed using PLA+ and Black TPU
 
 ## Contributors
 
-- **Aazir M.M.M.**: Research, Circuit Development, Enclosure Design, Coding
-- **Boralugoda M.S.**: Research, Documentation
-- **Liyanage D.L.B.B.**: Circuit Development, Implementation, Documentation
-- **Madusanka S.P.S.**: PCB Design, Circuit Implementation
-
+- **Aazir M.M.M.**
+- **Boralugoda M.S.**
+- **Liyanage D.L.B.B.**
+- **Madusanka S.P.S.**
