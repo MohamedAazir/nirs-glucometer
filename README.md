@@ -4,12 +4,12 @@
 </p>
 In our 2nd semester, for the module BM 1190 Engineering Design Project we came up  with an idea for building a Non - Invasive Bloodglucometer using NIR. So, this repository contains the whole work related to our project. The content includes, 
 
-- Problem Statement
-- Our Solution
-- Technical Architecture
-- PCB Design
-- Enclosure Design
-- Problems Encountered and Solutions
+- [Problem Statement](#problem-statement)
+- [Our Solution](#our-solution)
+- [Technical Architecture](#technical-architecture)
+- [PCB Design](#pcb-design)
+- [Enclosure Design](#enclosure-design)
+- [Problems Encountered and Solutions](#problems-encountered-and-solutions)
 
 ## Problem Statement
 Diabetes is a chronic metabolic disorder that occurs when the body either does not produce enough insulin or cannot effectively use the insulin it produces. Without proper insulin function, glucose builds up in the bloodstream, leading to high blood sugar levels (hyperglycemia), which can cause serious health complications.
