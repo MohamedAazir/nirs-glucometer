@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+D:\MY Academic\Altium project\NIGM_EDP\Project Outputs for NIGM_EDP\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/24
+Time:       21:20
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                    
+Y1         Ocillator        TopLayer XT9S20ANA8M                      1486.615      405.512       0        "Crystal or Oscillator"                        
+U1         L7805CV          TopLayer TO220                            2177.166      1275.590      270      "Positive Voltage Regulator, 5V, 3-Pin TO-220" 
+S1         MJTP1230A        TopLayer MJTP1230A                        2159.449      923.229       0        Switch                                         
+R8         "10k s R"        TopLayer ERJUP6                           2275.592      645.670       90       Resistor                                       
+R7         "6.8k s R"       TopLayer ERJUP6                           881.890       583.662       90       Resistor                                       
+R6         "68k s R"        TopLayer ERJUP6                           744.094       583.662       90       Resistor                                       
+R5         "6.8k s R"       TopLayer ERJUP6                           814.962       232.284       180      Resistor                                       
+R4         "68k s R"        TopLayer ERJUP6                           814.960       409.448       180      Resistor                                       
+R3         "680k s R"       TopLayer ERJUP6                           578.741       232.282       180      Resistor                                       
+R2         "1k s R"         TopLayer ERJUP6                           114.174       338.584       90       Resistor                                       
+R1         "680k s R"       TopLayer ERJUP6                           578.742       413.386       180      Resistor                                       
+J7         "2 male headers" TopLayer HDRV2W63P0X254_1X2_508X250X970P  186.220       1421.260      180      Connector                                      
+J6         "4 male headers" TopLayer HDRV4W63P0X254_1X4_1016X250X950P 518.504       1425.196      180      Connector                                      
+J5         "4 male headers" TopLayer HDRV4W63P0X254_1X4_1016X250X950P 1880.708      1500.000      180      Connector                                      
+J4         "2 male headers" TopLayer HDRV2W63P0X254_1X2_508X250X970P  1570.866      1388.582      90       Connector                                      
+J3         "2 male headers" TopLayer HDRV2W63P0X254_1X2_508X250X970P  1574.804      1119.292      90       Connector                                      
+J2         "4 male headers" TopLayer HDRV4W63P0X254_1X4_1016X250X950P 795.276       1219.290      90       Connector                                      
+J1         "5 male headers" TopLayer HDRV5W63P0X254_1X5_1270X254X970P 950.394       66.930        180      Connector                                      
+IC2        ATMEGA328P-AU    TopLayer QFP80P900X900X120-32N            1476.377      736.221       0        "Integrated Circuit"                           
+IC1        "LM358PE4 OpAmp" TopLayer DIP794W53P254L959H508Q8N         485.433       685.434       0        "Integrated Circuit"                           
+C13        "10mF Cap"       TopLayer VY2332M41Y5US63V7                1074.804      438.976       90       Capacitor                                      
+C12        "10mF Cap"       TopLayer VY2332M41Y5US63V7                935.040       803.150       180      Capacitor                                      
+C11        "22PF Cap"       TopLayer VY2332M41Y5US63V7                1990.158      145.670       180      Capacitor                                      
+C10        "22PF Cap"       TopLayer VY2332M41Y5US63V7                1486.220      149.606       180      Capacitor                                      
+C9         "100nF Cap"      TopLayer VY2332M41Y5US63V7                1982.284      677.166       180      Capacitor                                      
+C8         "100nF Cap"      TopLayer VY2332M41Y5US63V7                1990.158      417.322       0        Capacitor                                      
+C7         "1mF Cap"        TopLayer VY2332M41Y5US63V7                346.458       238.190       270      Capacitor                                      
+C6         "0.1mF Cap"      TopLayer VY2332M41Y5US63V7                1875.984      1322.834      180      Capacitor                                      
+C5         "0.22mF Cap"     TopLayer VY2332M41Y5US63V7                1874.014      1001.967      90       Capacitor                                      
+C4         "0.1mF Cap"      TopLayer VY2332M41Y5US63V7                141.732       675.197       270      Capacitor                                      
+C3         "1mF Cap"        TopLayer VY2332M41Y5US63V7                368.110       1131.891      270      Capacitor                                      
+C2         "100nF Cap"      TopLayer VY2332M41Y5US63V7                141.734       1131.890      270      Capacitor                                      
+C1         "0.1mF Cap"      TopLayer VY2332M41Y5US63V7                590.552       1131.890      270      Capacitor                                      
