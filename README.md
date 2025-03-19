@@ -97,7 +97,7 @@ For increased accuracy, enhanced comfort and stability, we have used black TPU (
 ## Problems Encountered and Solutions
 
 - **Noise in Circuit**: Resolved by utilizing active filters.
-- **IR Receiver Issues**: Switched to the CJ-MCU OPTO 101 module hoping for better performance. But didn't provide accurate results as expected
+- **IR Receiver Issues**: Switched to the CJ-MCU OPTO 101 module hoping for better performance. But it didn't provide accurate results as expected.
 - **Ethical Issues**: encountered an ethical issue of getting a large enough dataset to train the linear regression model.
 
 ## Our Team
