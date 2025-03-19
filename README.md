@@ -60,12 +60,10 @@ The device is powered by a 3.7V 500mAh LiPo battery, chosen for its lightweight 
 
 ## Firmware
 
-The firmware for the microcontroller is written in C++ using the Arduino IDE. It handles the calculation of blood glucose values by applying the pre-trained Linear Regression model to the processed voltage signal. The firmware also manages displaying the glucose levels on the OLED screen in real-time and updates the display with the current value in mg/dL. Additionally, it indicates the status of the device, at which stage the process currently lies on.
+The firmware for the microcontroller is written in C++ using the PlatformIO IDE. It handles the calculation of blood glucose values by applying the pre-trained Linear Regression model to the processed voltage signal. The firmware also manages displaying the glucose levels on the OLED screen in real-time and updates the display with the current value in mg/dL. Additionally, it indicates the status of the device, at which stage the process currently lies on.
 
 <p align="center">
- ![PlatformIO IDE](https://platformio.gallerycdn.vsassets.io/extensions/platformio/platformio-ide/3.3.4/1736607344047/Microsoft.VisualStudio.Services.Icons.Default)
-
-
+   <img src="https://github.com/user-attachments/assets/5498404a-9b95-4d88-b9c9-3f016fa393f0" alt="Description" width="300">
 </p>
 
 ## PCB Design
