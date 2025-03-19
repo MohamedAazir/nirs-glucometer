@@ -102,10 +102,11 @@ For increased accuracy, enhanced comfort and stability, we have used black TPU (
 
 ## Our Team
 
-- **Aazir M.A.M.**
-- **Boralugoda M.S.**
-- **Liyanage D.L.B.B.**
-- **Madusanka S.P.S.**
+
+- [@username](https://github.com/username)
+- [@username](https://github.com/username)
+- [@Banu-Liyanage](https://github.com/Banu-Liyanage)
+- [@username](https://github.com/username)
 
 </p>
 <p align="center">
