@@ -106,7 +106,7 @@ For increased accuracy, enhanced comfort and stability, we have used black TPU (
 - [@MohamedAazir](https://github.com/MohamedAazir)
 - [@msboralugoda](https://github.com/msboralugoda)
 - [@Banu-Liyanage](https://github.com/Banu-Liyanage)
-- [@username](https://github.com/username)
+- [@Madusanka20](https://github.com/Madusanka20)
 
 </p>
 <p align="center">
